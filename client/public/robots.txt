@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /dashboard/
+Disallow: /settings/
+Disallow: /generate/
+
+Sitemap: https://blueprintai-one.vercel.app/sitemap.xml

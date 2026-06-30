@@ -1,0 +1,16 @@
+{
+  "name": "Blueprint AI",
+  "short_name": "Blueprint AI",
+  "description": "AI-powered project blueprint generator",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1782633705523,
+      "tag": "0000_tense_scalphunter",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1782633824292,
+      "tag": "0001_complex_risque",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1782635294488,
+      "tag": "0002_friendly_kulan_gath",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1782636746430,
+      "tag": "0003_nosy_justice",
+      "breakpoints": true
+    }
+  ]
+}
